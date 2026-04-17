@@ -1,5 +1,5 @@
 # Fusion360-projects
-Collection of my Fusion360 CAD designs 
+Collection of my Fusion360 CAD designs with link below
 
 # Links for my part designs
 Link for Bench vise :(https://a360.co/42fwc80)
